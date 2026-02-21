@@ -45,5 +45,10 @@ The dashboard provides insights into sales performance, profit trends, customer 
 3. Use Quarter and State filters to explore insights
 
 ---
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arpitm169/E-Commerce-Sales-Analysis/main/Screenshot%202026-02-21%20173134.png" width="900"/>
+</p>
 
 ⭐ If you like this project, consider giving it a star!
